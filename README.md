@@ -1,2 +1,2 @@
-# WordPress---TCC
+# WordPress-TCC
 Atividade TCC - GCW
